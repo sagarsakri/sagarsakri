@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagarsakri
-- 👀 I’m interested in becoming a fullStack Developer
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a fullStack Developer
+- 🌱 I’m currently working on ReactJs
+- 💞️ I’m looking to collaborate on web-dev projects
 - 📫 How to reach me -sagarsakri@gmail.com
 
 <!---
